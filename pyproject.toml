@@ -1,0 +1,8 @@
+[project]
+name = "comfyui-ausboss-lora-previews"
+description = "Saves a LoRA's Civitai preview picture next to the LoRA file when you click Fetch Civitai info in the AusBoss LoRA Loader."
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/ausboss/ComfyUI-AusBoss-LoRA-Previews"
